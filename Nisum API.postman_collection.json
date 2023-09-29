@@ -61,7 +61,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8080/api/v1/users/6890af0e-5bbd-41c6-9391-89412d1c5ca7",
+					"raw": "localhost:8080/api/v1/users/0c0af05a-17bf-4759-9cdc-1b42df53a8c5",
 					"host": [
 						"localhost"
 					],
@@ -70,7 +70,7 @@
 						"api",
 						"v1",
 						"users",
-						"6890af0e-5bbd-41c6-9391-89412d1c5ca7"
+						"0c0af05a-17bf-4759-9cdc-1b42df53a8c5"
 					]
 				}
 			},
@@ -82,7 +82,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "localhost:8080/api/v1/users/537e7ec3-ab8f-40ac-afcf-3eedbbb4de3a",
+					"raw": "localhost:8080/api/v1/users/0c0af05a-17bf-4759-9cdc-1b42df53a8c5",
 					"host": [
 						"localhost"
 					],
@@ -91,7 +91,7 @@
 						"api",
 						"v1",
 						"users",
-						"537e7ec3-ab8f-40ac-afcf-3eedbbb4de3a"
+						"0c0af05a-17bf-4759-9cdc-1b42df53a8c5"
 					]
 				}
 			},
