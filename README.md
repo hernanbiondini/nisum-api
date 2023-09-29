@@ -24,7 +24,7 @@ Para ejecutar los test.
 
 Para probar con postman importar el Nisum API.postman_collection.json
 
-# Documentacion 
+# Documentación 
 
 http://localhost:8080/swagger-ui/index.html
 
